@@ -1,0 +1,14 @@
+#JAMIN{
+    color: #5D26C1;
+}
+html{
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    /* background-color: rgb(224, 228, 195); */
+    background-image: linear-gradient(90deg,#FDC830,#F37335);
+}
+.intro{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
